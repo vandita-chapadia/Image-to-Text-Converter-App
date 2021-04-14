@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866482467247",
+    "project_id": "imgtotextapp",
+    "storage_bucket": "imgtotextapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866482467247:android:56fb05bac930adbf30bf5a",
+        "android_client_info": {
+          "package_name": "com.example.img_to_text_convertor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866482467247-pr276th9s9h88rfqoui212894c2om9do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMI-8xqJNpC5jUPDKpWxyAjexolnOaNaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866482467247-pr276th9s9h88rfqoui212894c2om9do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
